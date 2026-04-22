@@ -1,0 +1,35 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Python (in case you add notebooks later)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.key
+aws_credentials
+.aws/
+
+# Large binaries
+*.psd
+*.ai
+*.mp4
+*.mov
+
+# Raw data (don't commit real financial data to a public repo)
+*.csv
+*.txt
+!requirements.txt
+
+# Temp files
+*.tmp
+*.bak
