@@ -4,7 +4,7 @@ An end-to-end AWS data pipeline that ingests financial data on 6,800+ companies,
 
 Built on S3, Glue, Redshift, and SageMaker Canvas. The model hits 95.968% accuracy. The output is a CSV of companies flagged as high-risk or safe, with the actual business decision already made: two companies to avoid, eight to invest in.
 
-![Data Architecture](Data_Architecture - Final.png)
+![Data Architecture](Data_Architecture_-_Final.png)
 
 ## The problem
 
